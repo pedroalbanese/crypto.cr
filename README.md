@@ -95,11 +95,11 @@ xor = Crypto.xor_bytes(a, b)
 ```
 ## CLI
 #### Compile the CLI
-```cr
+```sh
 crystal build src/crypto_cli.cr -o crypto
 ```
 #### User Interface
-```cr
+```
 Crypto Tool v1.0.0 - ALBANESE Research Lab
 ======================================================================
 Usage: ./crypto_cli <command> [options]
