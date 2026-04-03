@@ -7,12 +7,13 @@ Comprehensive cryptographic library for Crystal supporting ED521, X448, Anubis-G
 #### Implements
     
 1. Anubis Involutional SPN 128-bit block cipher (Barreto, ESAT/COSIC)
-2. ITI DOC-ICP-01.01 Curve E-521 Brazilian Digital Signature Standard
-3. RFC 2104: HMAC - Keyed-Hashing for Message Authentication
-4. RFC 5869: HMAC-based Key Derivation Function (HKDF)
-5. SBRC 2007: Curupira1 96-bit block cipher with 96/144/192-bit keys
-6. US FIPS 202 SHA-3 Permutation-Based Hash (instance of the Keccak)
-7. RFC 7748: Curve448-Goldilocks: Elliptic Curves for Security
+2. SBRC 2007: Curupira1 96-bit block cipher with 96/144/192-bit keys
+3. ITI DOC-ICP-01.01 Curve E-521 Brazilian Digital Signature Standard
+4. RFC 1423: Privacy Enhancement for Internet Electronic Mail
+5. RFC 2104: HMAC - Keyed-Hashing for Message Authentication
+6. RFC 5869: HMAC-based Key Derivation Function (HKDF)
+7. RFC 7748: Curve448-Goldilocks: X448 Key Agreement Function
+8. US FIPS 202 SHA-3 Permutation-Based Hash (instance of the Keccak)
 
 ## Usage
 #### Import the Lib
