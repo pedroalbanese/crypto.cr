@@ -4,7 +4,7 @@ Comprehensive cryptographic library for Crystal supporting ED521, X448, Anubis-G
 
 ***Fully EDGETk compliant***
 
-<details><summary>Implements</summary>  
+#### Implements
     
 1. Anubis Involutional SPN 128-bit block cipher (Barreto, ESAT/COSIC)
 2. ITI DOC-ICP-01.01 Curve E-521 Brazilian Digital Signature Standard
@@ -13,8 +13,6 @@ Comprehensive cryptographic library for Crystal supporting ED521, X448, Anubis-G
 5. SBRC 2007: Curupira1 96-bit block cipher with 96/144/192-bit keys
 6. US FIPS 202 SHA-3 Permutation-Based Hash (instance of the Keccak)
 7. RFC 7748: Curve448-Goldilocks: Elliptic Curves for Security
-
-</details>
 
 ## Usage
 #### Import the Lib
