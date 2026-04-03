@@ -1,0 +1,17 @@
+name: crypto
+version: 1.0.0
+authors:
+  - Pedro F. Albanese <pedroalbanese@hotmail.com>
+
+description: |
+  Cryptographic library with ED521, X448, Anubis-GCM, Curupira1-CBC, SHA3, HMAC, HKDF
+
+license: ISC
+
+dependencies:
+  big:
+    github: crystal-data/big
+
+development_dependencies:
+  spec:
+    github: crystal-lang/crystal-spec
